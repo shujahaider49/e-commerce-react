@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shujahaider49/e-commerce-react/static/css/main.0f642e81.css",
+    "main.js": "/shujahaider49/e-commerce-react/static/js/main.685ab3fd.js",
+    "index.html": "/shujahaider49/e-commerce-react/index.html",
+    "main.0f642e81.css.map": "/shujahaider49/e-commerce-react/static/css/main.0f642e81.css.map",
+    "main.685ab3fd.js.map": "/shujahaider49/e-commerce-react/static/js/main.685ab3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f642e81.css",
+    "static/js/main.685ab3fd.js"
+  ]
+}
